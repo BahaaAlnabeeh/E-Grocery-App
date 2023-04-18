@@ -2,6 +2,8 @@
 
 It is a Smart Store application that enables you to buy vegetables and fruits and can you take a coupon or discount percentage and pay through it.
 
+App Screens 
+
 Splash And OnBoarding Screen 
 
 ![White – 6](https://user-images.githubusercontent.com/42490211/232810021-aba62ada-ecb5-4fe0-b2fc-f2dc7e94dbad.jpg)
