@@ -4,7 +4,7 @@ It is a Smart Store application that enables you to buy vegetables and fruits an
 
 Splash And OnBoarding Screen 
 
-![White – 5](https://user-images.githubusercontent.com/42490211/232806209-a12a7181-d63b-47f0-9ca5-fc14f85def6c.jpg)
+![White – 6](https://user-images.githubusercontent.com/42490211/232810021-aba62ada-ecb5-4fe0-b2fc-f2dc7e94dbad.jpg)
 
 Main Screen 
 
