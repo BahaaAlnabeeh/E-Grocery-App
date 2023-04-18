@@ -2,6 +2,8 @@
 
 It is a Smart Store application that enables you to buy vegetables and fruits and can you take a coupon or discount percentage and pay through it.
 
+For More Details, Do not hesitate to communicate with me at Email: alnbyhbha@gmail.com
+
 App Screens 
 
 Splash And OnBoarding Screen 
