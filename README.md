@@ -4,8 +4,7 @@ It is a Smart Store application that enables you to buy vegetables and fruits an
 
 For More Details, Do not hesitate to communicate with me at Email: alnbyhbha@gmail.com
 
-App Screens 
-
+App Screens:
 Splash And OnBoarding Screen 
 
 ![White – 6](https://user-images.githubusercontent.com/42490211/232810021-aba62ada-ecb5-4fe0-b2fc-f2dc7e94dbad.jpg)
