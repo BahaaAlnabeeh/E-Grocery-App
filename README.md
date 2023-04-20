@@ -17,3 +17,8 @@ Sign Up & Login Screens
 Main Screens
 
 ![grocery 1](https://user-images.githubusercontent.com/42490211/232802538-cb953704-61e8-4d0a-ad49-7890cfeebb1d.jpg)
+
+![White – 9](https://user-images.githubusercontent.com/42490211/233426214-efeb7d1b-aab3-4469-8ba2-6c7cf4e10a87.jpg)
+
+![White – 10](https://user-images.githubusercontent.com/42490211/233426759-6e24ae7e-d8db-456f-86af-bee11414104c.jpg)
+
