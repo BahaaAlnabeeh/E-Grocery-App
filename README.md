@@ -24,3 +24,10 @@ Main Screens
 
 ![White – 10](https://user-images.githubusercontent.com/42490211/233426759-6e24ae7e-d8db-456f-86af-bee11414104c.jpg)
 
+![White – 11](https://user-images.githubusercontent.com/42490211/234338977-1552d3d2-04f4-4f52-a09c-bce7492aecc0.jpg)
+
+![White – 13](https://user-images.githubusercontent.com/42490211/234340824-a40e9e70-88c3-4d0f-977c-8f7dd29d7bf2.jpg)
+
+![White – 14](https://user-images.githubusercontent.com/42490211/234340162-87c48a3b-bee3-40c0-b3f9-e745c609df4c.jpg)
+
+![White – 12](https://user-images.githubusercontent.com/42490211/234339228-9679d929-e13d-4c8a-9f7d-9e0a8f005367.jpg)
