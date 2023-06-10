@@ -1,8 +1,18 @@
 # E-Grocery-App
 
-It is a Smart Store application that enables you to buy vegetables and fruits and can you take a coupon or discount percentage and pay through it.
-
-For More Details, Do not hesitate to communicate with me at Email: alnbyhbha@gmail.com
+It is a Smart Store application that enables you to buy vegetables and fruits and can you take a coupon or discount percentage and pay through it. 
+It was developed using the Flutter framework and integrated with APIs to enable the application to work on both Android and iOS systems.
+ 
+The main features of the application are:
+* Creating distinct, attractive interfaces and responsive to all screen sizes.
+* Display advertisements within the application.
+* Ability to add a product to the favorites list for quick access later.
+* Ability to add products to the shopping cart to complete the payment process.
+* Detailed and beautiful product view.
+* Contains FCM notifications.
+* Ability to search for specific products.
+ 
+Welcome to contact me at Email: alnbyhbha@gmail.com for more inquiries or a similar job request
 
 App Screens:
 
