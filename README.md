@@ -1,6 +1,6 @@
 # E-Grocery-App
 
-It is a Smart Store application that enables you to buy vegetables and fruits and can you take a coupon or discount percentage and pay through it. 
+E-Grocery-App is a Smart Store application that enables you to buy vegetables and fruits and can you take a coupon or discount percentage and pay through it. 
 It was developed using the Flutter framework and integrated with APIs to enable the application to work on both Android and iOS systems.
  
 The main features of the application are:
