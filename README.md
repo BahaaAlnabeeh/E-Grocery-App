@@ -12,7 +12,7 @@ The main features of the application are:
 * Contains FCM notifications.
 * Ability to search for specific products.
  
-Welcome to contact me at Email: alnbyhbha@gmail.com for more inquiries or a similar job request
+Welcome to contact me for more inquiries or a similar job request
 
 App Screens:
 
